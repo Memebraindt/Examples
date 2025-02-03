@@ -1,16 +1,19 @@
-# Examples
-Just a random solved tasks
+# Примеры / Examples
+Просто случайные решённые задачи. / Just a random solved tasks.
 
 
 ## 1. Консольное приложение, которое выводит на экран "бабочку" заданного размера N.
 Увидел такой пример в телеграме: \
-![image](https://github.com/user-attachments/assets/19227596-d23b-4c88-8685-14fad6670a81)
+![Задачи в группе на ~60 тыс. подписчиков](https://github.com/user-attachments/assets/19227596-d23b-4c88-8685-14fad6670a81) \
 Понял, что можно сделать проще. Сделал :) \
 Результат: \
-![image](https://github.com/user-attachments/assets/34eb7c5d-940d-409e-a22c-df2e98a7cfd3) \
-![image](https://github.com/user-attachments/assets/650600d2-d5f7-44c9-ae0c-da13015c6b55) \
+![мой код](https://github.com/user-attachments/assets/650600d2-d5f7-44c9-ae0c-da13015c6b55) \
+![вывод](https://github.com/user-attachments/assets/34eb7c5d-940d-409e-a22c-df2e98a7cfd3) \
 Логика решения: \
-![image](https://github.com/user-attachments/assets/01f030a7-cb3c-40a3-851c-3666db3d57b7) \
-Бабочка имеет размеры 2N * (2N-1). Результат выводится посимвольно. Сложность алгоритма О(N^2) \
+Бабочка имеет размеры 2N * (2N-1). \
+Идём по каждому символу и определяем, относится текущий символ к бабочке или нет, пользуясь схемой, и выводим соответствующий символ к консоль. \
+![схема](https://github.com/user-attachments/assets/01f030a7-cb3c-40a3-851c-3666db3d57b7) \
+Сложность алгоритма О(N^2). \
+Т.к. бабочка 2D-шная, то быстрее, чем за N^2 её вывести не получится, но можно оптимизировать вывод за счёт выделения дополнительнйо памяти. \
 
 ## 2. 
