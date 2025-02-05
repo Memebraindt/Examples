@@ -7,7 +7,7 @@
 ![Задачи в группе на ~60 тыс. подписчиков](https://github.com/user-attachments/assets/19227596-d23b-4c88-8685-14fad6670a81) \
 Понял, что можно сделать проще. Сделал :) \
 Результат: \
-![мой код](https://github.com/user-attachments/assets/dfa6d8ba-70ba-46fe-aa6e-4787699e70ed) \
+![мой код](https://github.com/user-attachments/assets/46e0792b-b047-4c6f-b271-0ae383d858b9) \
 ![вывод](https://github.com/user-attachments/assets/34eb7c5d-940d-409e-a22c-df2e98a7cfd3) \
 Логика решения: \
 Бабочка имеет размеры 2N * (2N-1). \
