@@ -16,4 +16,9 @@
 Сложность алгоритма О(N^2). \
 Т.к. бабочка 2D-шная, то быстрее, чем за N^2 её вывести не получится, но можно оптимизировать вывод за счёт выделения дополнительнйо памяти.
 
-## 2. 
+## 2. Make a spiral
+![image](https://github.com/user-attachments/assets/73d2893c-cd17-4f54-98f6-006c029761ec)
+Примеры методов \
+![image](https://github.com/user-attachments/assets/cad63008-aa2a-47fa-900e-aa8f9b2136c9)
+Результат: \
+![image](https://github.com/user-attachments/assets/0e224ae5-2e0d-402d-93fb-52b46325ec51)
